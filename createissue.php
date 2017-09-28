@@ -6,6 +6,7 @@
 	 * GitHub/BitBucket Issue Creator
 	 * Test for Xerox assigned by Ashish
 	 * (c) Shaan Gola <shaan.gola@gmail.com> 
+         * For demo purpose only
 	 */
 	require_once 'gitvendor/autoload.php';
 	require_once 'bitvendor/autoload.php';
